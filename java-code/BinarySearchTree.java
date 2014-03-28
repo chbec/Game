@@ -5,7 +5,7 @@
  * BinarySearchTreeNode.
  * 
  * @author henrikbe
- * 
+ * balle
  */
 public class BinarySearchTree<T extends Comparable<T>> {
 
